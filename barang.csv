@@ -1,0 +1,121 @@
+id,kode_barang,nama_barang,harga,kategori
+1,1001,Samsung Galaxy S23 Ultra,19999000,smartphone
+2,1002,iPhone 14 Pro Max,21999000,smartphone
+3,1003,Xiaomi Mi 11 Ultra,12499000,smartphone
+4,1004,Oppo Find X5 Pro,14999000,smartphone
+5,1005,Vivo X80 Pro,15499000,smartphone
+6,1006,Google Pixel 7 Pro,13499000,smartphone
+7,1007,OnePlus 10 Pro,12999000,smartphone
+8,1008,Asus ROG Phone 6,17499000,smartphone
+9,1009,Realme GT 2 Pro,11999000,smartphone
+10,1010,Sony Xperia 1 IV,19499000,smartphone
+11,1011,Huawei P50 Pro,15999000,smartphone
+12,1012,Nokia XR20,7999000,smartphone
+13,1013,Motorola Edge 30 Pro,10999000,smartphone
+14,1014,Honor Magic4 Pro,14499000,smartphone
+15,1015,ZTE Axon 40 Ultra,11999000,smartphone
+16,1016,Infinix Zero Ultra,6999000,smartphone
+17,1017,Poco F4 GT,9999000,smartphone
+18,1018,Tecno Phantom X,8499000,smartphone
+19,1019,Lenovo Legion Duel 2,13499000,smartphone
+20,1020,LG Wing,14999000,smartphone
+21,1021,Canon EOS R5,62000000,camera
+22,1022,Nikon Z7 II,54000000,camera
+23,1023,Sony Alpha A7 IV,38500000,camera
+24,1024,Fujifilm X-T4,25000000,camera
+25,1025,Panasonic Lumix S1R,45000000,camera
+26,1026,Olympus OM-D E-M1 Mark III,29000000,camera
+27,1027,Canon EOS R6,42000000,camera
+28,1028,Nikon D850,45000000,camera
+29,1029,Sony Alpha A6600,20500000,camera
+30,1030,Fujifilm X100V,20000000,camera
+31,1031,Panasonic Lumix GH5,26000000,camera
+32,1032,Leica Q2,72000000,camera
+33,1033,Canon EOS M50 Mark II,12000000,camera
+34,1034,Nikon Z50,17000000,camera
+35,1035,Sony Alpha A7C,30000000,camera
+36,1036,Fujifilm X-S10,18500000,camera
+37,1037,Olympus OM-D E-M5 Mark III,19000000,camera
+38,1038,Panasonic Lumix G95,14500000,camera
+39,1039,Canon PowerShot G7 X Mark III,12500000,camera
+40,1040,Sony RX100 VII,18500000,camera
+41,1041,Sony Bravia 55X8000H,9500000,android tv
+42,1042,Samsung QLED 55Q60T,10000000,android tv
+43,1043,LG 55NANO80TNA,9000000,android tv
+44,1044,TCL 55C715,7500000,android tv
+45,1045,Xiaomi Mi TV 4 55 Inch,6500000,android tv
+46,1046,Sharp AQUOS 4T-C60CK1X,11000000,android tv
+47,1047,Hisense 55A6100,6000000,android tv
+48,1048,Coocaa 55S6G,5500000,android tv
+49,1049,Polytron 55UV6900,8000000,android tv
+50,1050,Realme Smart TV 43 Inch,4500000,android tv
+51,1051,Sony Bravia 43X8000G,7000000,android tv
+52,1052,Samsung Crystal UHD 50TU8000,8000000,android tv
+53,1053,LG 43LM5700,4500000,android tv
+54,1054,TCL 43P715,4700000,android tv
+55,1055,Xiaomi Mi TV 4 43 Inch,4000000,android tv
+56,1056,Sharp AQUOS 4T-C50CK1X,8000000,android tv
+57,1057,Hisense 43A6000,3500000,android tv
+58,1058,Coocaa 50S6G,5000000,android tv
+59,1059,Polytron 50UV5900,7000000,android tv
+60,1060,Realme Smart TV 32 Inch,3000000,android tv
+61,1061,Samsung RT38K5032GL,6500000,lemari es
+62,1062,LG GN-B372SQCB,5500000,lemari es
+63,1063,Panasonic NR-BX468V,7000000,lemari es
+64,1064,Sharp SJ-316XG-MS,4000000,lemari es
+65,1065,Toshiba GR-RB405WE-PMF,6000000,lemari es
+66,1066,Hitachi R-W70PGD8,12000000,lemari es
+67,1067,Polytron PRM 28QX,3500000,lemari es
+68,1068,Aqua AQR-D275R,3000000,lemari es
+69,1069,Mitsubishi Electric MR-F47EH-ST,7500000,lemari es
+70,1070,Electrolux EME3500MG,6000000,lemari es
+71,1071,Panasonic NR-BX421WG,5500000,lemari es
+72,1072,Sharp SJ-195MD-SG,2500000,lemari es
+73,1073,LG GN-B202SQBB,3200000,lemari es
+74,1074,Samsung RT43K6231UT,7800000,lemari es
+75,1075,Hitachi R-H330P7,4000000,lemari es
+76,1076,Toshiba GR-YG52ED,8500000,lemari es
+77,1077,Polytron PRM 21QX,2800000,lemari es
+78,1078,Aqua AQR-D260,2700000,lemari es
+79,1079,Mitsubishi Electric MR-L72EH,13500000,lemari es
+80,1080,Electrolux ETB3200MG,5000000,lemari es
+81,1081,LG F1409HPP25,10500000,mesin cuci
+82,1082,Samsung WW90T554DAX,7500000,mesin cuci
+83,1083,Electrolux EWF8025CQWA,5500000,mesin cuci
+84,1084,Panasonic NA-128VX6,8000000,mesin cuci
+85,1085,Sharp ES-FL1082,5000000,mesin cuci
+86,1086,Bosch WAW28460ID,13000000,mesin cuci
+87,1087,Aqua FQW-120876QD,6500000,mesin cuci
+88,1088,Hitachi SF-140XAV,7000000,mesin cuci
+89,1089,Midea MFC80-S1401,4000000,mesin cuci
+90,1090,Toshiba TW-BH95M4,7500000,mesin cuci
+91,1091,Polytron PAW 9513,3000000,mesin cuci
+92,1092,Samsung WA70H4000SG,3500000,mesin cuci
+93,1093,LG T2108VSAM,4000000,mesin cuci
+94,1094,Sharp ES-T85CR,2200000,mesin cuci
+95,1095,Electrolux EWT705WN,2800000,mesin cuci
+96,1096,Panasonic NA-W120BC1,2500000,mesin cuci
+97,1097,Hitachi SF-80XB,3200000,mesin cuci
+98,1098,Midea MAM110-S2007,3800000,mesin cuci
+99,1099,Aqua AQW-89XTF,2900000,mesin cuci
+100,1100,Toshiba VH-H75MN,2300000,mesin cuci
+101,1101,HP LaserJet Pro MFP M428fdw,6500000,printer
+102,1102,Canon imageCLASS MF445dw,5800000,printer
+103,1103,Epson EcoTank L6170,5000000,printer
+104,1104,Brother MFC-L5900DW,7200000,printer
+105,1105,Samsung Xpress SL-M2876ND,3500000,printer
+106,1106,HP OfficeJet Pro 9025,4500000,printer
+107,1107,Canon PIXMA G6020,3800000,printer
+108,1108,Epson WorkForce Pro WF-C5790,6000000,printer
+109,1109,Brother DCP-T510W,3000000,printer
+110,1110,Samsung Xpress M2020W,1500000,printer
+111,1111,HP DeskJet Plus 4120,1200000,printer
+112,1112,Canon PIXMA TS8370,3700000,printer
+113,1113,Epson EcoTank L3150,2500000,printer
+114,1114,Brother HL-L2370DW,2800000,printer
+115,1115,Samsung Xpress C1860FW,4000000,printer
+116,1116,HP LaserJet Pro M15w,1000000,printer
+117,1117,Canon imageRUNNER 2006N,5000000,printer
+118,1118,Epson EcoTank ET-4760,5200000,printer
+119,1119,Brother MFC-J2330DW,4300000,printer
+120,1120,Samsung ProXpress M3820DW,3200000,printer
